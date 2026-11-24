@@ -1,0 +1,6 @@
+Copy these two files from Google Drive (MyDrive/mwanza_project/) into this folder:
+
+  mwanza_tiles_access.csv
+  mwanza_health_facilities_osm.csv
+
+Keep the file names exactly as they are.
